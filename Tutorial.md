@@ -18,7 +18,7 @@ To delve deeper, refer [**this**](https://www.geeksforgeeks.org/knowing-the-comp
 
 With that set, let's solve some basic problems that don't require anything but logic. We call these problems 'ad-hoc'. These are probelms on Codeforces, so sign up on codeforces first. And then solve these questions!
 
-* [**1294 A**](https://codeforces.com/contest/1294/problem/A)
+* [**1294 A**](https://codeforces.com/contest/1294/problem/A) 
 * [**1288 A**](https://codeforces.com/contest/1288/problem/A)
 * [**1339 A**](https://codeforces.com/contest/1339/problem/A)
 
@@ -132,6 +132,8 @@ It is important to note that stacks and queues by default are not stored in cont
 Stacks and Queues have some really cool applications in graph theory, which we will go through in the next section. So, basically the thing is it is upto your intellect to decide when and where it is benefical to use stacks or queues or going by the basic array/vector is better. At times, it is easier to solve a problem using vector than actualy using a queue or a stack. But don't worry, you will be able to figure that out with practice.  
 
 ---
+
+Payal
 
 ## GRAPHS 
 
